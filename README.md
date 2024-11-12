@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a CyberSec enthusiast and developer focusing on secure coding practices, pentest, vulnerability analysis, and creating tools.
+I am a CyberSec enthusiast and developer focusing on secure coding practices, vulnerability analysis and creating tools.
 
 
 
