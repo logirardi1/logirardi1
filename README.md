@@ -6,12 +6,7 @@ I am a CyberSec enthusiast and developer focusing on secure coding practices, vu
 
 
 🧰 Toolbox
-  <ul>
-      <li>Front-End with HTML/CSS/JS</li>
-      <li>Back-End with Laravel/TypeScript</li>
-      <li>Scripts with Shell/Python</li>
-      <li>Database services with SQL</li>
-  </ul>
+  <br>
   <div>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/powershell.svg'>
