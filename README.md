@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-CyberSec enthusiast and developer focusing on secure coding, vulnerability analysis and creating tools.
+cybersec enthusiast, and developer focusing on secure coding, vulnerability analysis and creating tools.
 
 
 <h3 align="left">Toolbox:</h3>
